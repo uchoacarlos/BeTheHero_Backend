@@ -1,3 +1,31 @@
-# SemanaOministack11
-Projeto criado a partir da semana Oministack ministrado por Diego Fernandes da Rocketseat com o intuito de adquirir e aprimorar conhecimentos e habilidades em desenvolvimento na stack javascript(node, react, react native).
-O projeto BeTheHero é um projeto que visa conectar pessoas que desejam fazer contribuições monetárias a ONG's (Organizações não governamentais) que precisam de ajuda.
+# Semana OmniStack 11.0
+
+Este foi o projeto desenvolvido na 11ª edição da Semana OmniStack da RocketSeat.
+
+O objetivo é criar sistemas para conectar ONGs com pessoas dispostas a contribuir.
+
+O projeto inclui diversas tecnologias como npm, knex, jest, entre outras.
+
+Fiquei tão empolgado com o React-Native que no aplicativo móvel criei a opção de dark mode.
+
+## Tecnologias Utilizadas
+
+- **Node.js:** Backend
+- **React:** Frontend web
+- **React Native/Expo:** Aplicativo móvel
+- **SQLite:** Banco de dados
+- **Knex.js:** SQL query builder
+- **Jest:** Testes
+
+## Instalação
+
+1. Baixe ou faça um clone do projeto e acesse a pasta do projeto.
+
+### Back-end
+
+2. Entre na pasta `backend` e execute os seguintes comandos:
+
+   ```bash
+   $ npm install # para instalar as dependências.
+   $ npm start # para iniciar o servidor em localhost:3333.
+   $ npm test # para executar os testes.
